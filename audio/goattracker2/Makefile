@@ -5,6 +5,7 @@ PORTVERSION=	2.73
 PORTREVISION=	0
 CATEGORIES=	audio
 MAINTAINER=	olivia@foxiepa.ws
+COMMENT=	A crossplatform music editor for creating Commodore 64 music.
 USES=		zip gmake
 MASTER_SITES=	SF/GoatTracker 2/${PORTVERSION}/
 DISTNAME=GoatTracker_${PORTVERSION}
